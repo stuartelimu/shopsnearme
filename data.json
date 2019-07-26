@@ -1,0 +1,5790 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2019-07-26T06:03:03Z",
+    "timestamp_areas_base": "2019-07-26T05:59:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 293999742,
+      "lat": 0.4280828,
+      "lon": 33.2089118,
+      "tags": {
+        "name": "Big Bonansa Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294001841,
+      "lat": 0.3265082,
+      "lon": 32.6064419,
+      "tags": {
+        "name": "Shoprite Lugogo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 590641752,
+      "lat": 0.3538017,
+      "lon": 32.6115265,
+      "tags": {
+        "name": "Quality Supermarket Ntinda",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 598134728,
+      "lat": 0.3261656,
+      "lon": 32.6151574,
+      "tags": {
+        "name": "Capital Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 598134748,
+      "lat": 0.3142905,
+      "lon": 32.634945,
+      "tags": {
+        "name": "Half Price Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 599171968,
+      "lat": 0.3382142,
+      "lon": 32.5873414,
+      "tags": {
+        "name": "Millennium Supermarket",
+        "shop": "supermarket",
+        "website": "http://www.millenniumsupermarket.com/profile.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 599171969,
+      "lat": 0.3386496,
+      "lon": 32.58817,
+      "tags": {
+        "name": "Checkers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601454386,
+      "lat": 0.3160626,
+      "lon": 32.6499778,
+      "tags": {
+        "name": "Good Price Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601454493,
+      "lat": 0.3194213,
+      "lon": 32.6476838,
+      "tags": {
+        "name": "Cool Price Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604685999,
+      "lat": 0.327269,
+      "lon": 32.637687,
+      "tags": {
+        "name": "Corner House",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606756167,
+      "lat": 0.3597288,
+      "lon": 32.6436446,
+      "tags": {
+        "name": "Mercy Shopping Center",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606756264,
+      "lat": 0.3526302,
+      "lon": 32.6452336,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606756435,
+      "lat": 0.3522432,
+      "lon": 32.6448436,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606953338,
+      "lat": 0.3208307,
+      "lon": 32.6185584,
+      "tags": {
+        "name": "Jazz Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606953361,
+      "lat": 0.3119237,
+      "lon": 32.6085598,
+      "tags": {
+        "name": "Best Price",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606953386,
+      "lat": 0.3022776,
+      "lon": 32.617107,
+      "tags": {
+        "name": "Shopping Mark",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608969402,
+      "lat": 0.2838423,
+      "lon": 32.6097693,
+      "tags": {
+        "name": "485",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608969420,
+      "lat": 0.2928313,
+      "lon": 32.6054659,
+      "tags": {
+        "name": "John Rich",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608969423,
+      "lat": 0.2942398,
+      "lon": 32.6055003,
+      "tags": {
+        "name": "Mega Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610916427,
+      "lat": 0.3508183,
+      "lon": 32.5978176,
+      "tags": {
+        "name": "Sunrise Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610916489,
+      "lat": 0.3498372,
+      "lon": 32.5983485,
+      "tags": {
+        "name": "Askata Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610938779,
+      "lat": 0.3491851,
+      "lon": 32.5988287,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610939178,
+      "lat": 0.3014784,
+      "lon": 32.6472552,
+      "tags": {
+        "name": "Thomas Crown",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610939191,
+      "lat": 0.3013805,
+      "lon": 32.6473112,
+      "tags": {
+        "name": "Jubilee",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610939311,
+      "lat": 0.3023385,
+      "lon": 32.6444436,
+      "tags": {
+        "name": "St. Thereza",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616175883,
+      "lat": 0.302639,
+      "lon": 32.6015404,
+      "tags": {
+        "name": "Afri Den Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616288139,
+      "lat": 0.309667,
+      "lon": 32.5926474,
+      "tags": {
+        "name": "Atlantis Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616311321,
+      "lat": 0.316546,
+      "lon": 32.5699728,
+      "tags": {
+        "name": "Quality Supermarket Old Kampala",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 632607005,
+      "lat": 0.37288,
+      "lon": 32.6288557,
+      "tags": {
+        "name": "PK Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663674280,
+      "lat": 0.0614727,
+      "lon": 32.4718607,
+      "tags": {
+        "addr:city": "Entebbe",
+        "addr:street": "Kampala Road",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674103208,
+      "lat": 0.0624115,
+      "lon": 32.4718333,
+      "tags": {
+        "addr:city": "Entebbe",
+        "addr:street": "Kampala Road",
+        "name": "Merry Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729785012,
+      "lat": 0.3714666,
+      "lon": 32.6289202,
+      "tags": {
+        "name": "Karibu Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 960097954,
+      "lat": 0.3811106,
+      "lon": 32.5766478,
+      "tags": {
+        "name": "People's Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 993664478,
+      "lat": 0.2818632,
+      "lon": 32.5932231,
+      "tags": {
+        "name": "Fresta Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1014756614,
+      "lat": 0.1972238,
+      "lon": 32.5399251,
+      "tags": {
+        "addr:housenumber": "4807",
+        "addr:street": "Entebbe - Kampala Road",
+        "name": "Expresss Supermarket",
+        "phone": "0712009085",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1014756790,
+      "lat": 0.0915293,
+      "lon": 32.4977591,
+      "tags": {
+        "name": "Kiso Jodam Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1103180932,
+      "lat": 0.3912817,
+      "lon": 32.6257842,
+      "tags": {
+        "name": "Roy",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1247068983,
+      "lat": 0.2990757,
+      "lon": 32.5557139,
+      "tags": {
+        "name": "Friends Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1312750601,
+      "lat": 0.3549457,
+      "lon": 32.612484,
+      "tags": {
+        "name": "Tuskys Supermarket Ntinda",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1312757071,
+      "lat": 0.3694285,
+      "lon": 32.6020306,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1313102202,
+      "lat": 0.3605453,
+      "lon": 32.6082654,
+      "tags": {
+        "name": "Africana Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1313122955,
+      "lat": 0.348387,
+      "lon": 32.5982317,
+      "tags": {
+        "name": "Super Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1314081359,
+      "lat": 0.2664075,
+      "lon": 32.530062,
+      "tags": {
+        "name": "Lebron Shopping Centre",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1322227557,
+      "lat": 0.4272881,
+      "lon": 33.2084881,
+      "tags": {
+        "name": "Ganesh Supermarket Ltd.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1362471829,
+      "lat": 0.2407436,
+      "lon": 32.5631929,
+      "tags": {
+        "name": "Quality Supermarket",
+        "old_name": "Quality Shoppers Lubowa",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428791116,
+      "lat": 0.3507922,
+      "lon": 32.7383541,
+      "tags": {
+        "name": "HADJI ABASS SUPERMARKET",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1583800383,
+      "lat": 0.3100086,
+      "lon": 32.6091516,
+      "tags": {
+        "name": "cheaper price supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1647106160,
+      "lat": 2.7743326,
+      "lon": 32.2973683,
+      "tags": {
+        "addr:city": "Gulu",
+        "addr:street": "Main Street",
+        "name": "Cynibel Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1647176833,
+      "lat": 2.2448836,
+      "lon": 32.8981364,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1788488877,
+      "lat": 0.2975967,
+      "lon": 32.6009562,
+      "tags": {
+        "name": "Deep Enterprises LTD",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2097716982,
+      "lat": 0.3264286,
+      "lon": 32.6067326,
+      "tags": {
+        "name": "Game Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2126241019,
+      "lat": 0.3821044,
+      "lon": 32.5559131,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2143275212,
+      "lat": 1.4870529,
+      "lon": 33.9312376,
+      "tags": {
+        "name": "Kalkam Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2194078044,
+      "lat": 0.3755242,
+      "lon": 32.6433916,
+      "tags": {
+        "name": "Quality Shopping Village",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2317188384,
+      "lat": 0.2839268,
+      "lon": 32.6091476,
+      "tags": {
+        "name": "Dees Seven Ten Stores",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2323069148,
+      "lat": 2.7839382,
+      "lon": 32.307087,
+      "tags": {
+        "name": "Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2341568583,
+      "lat": 0.3148341,
+      "lon": 32.5642043,
+      "tags": {
+        "name": "Standard Supermarkert",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2354898212,
+      "lat": 0.2672421,
+      "lon": 32.6230751,
+      "tags": {
+        "name": "Cinderella SuperMarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2354898222,
+      "lat": 0.2660031,
+      "lon": 32.624732,
+      "tags": {
+        "name": "Hem Supermarket and Pharmacy",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2365488419,
+      "lat": 0.9473292,
+      "lon": 33.1224968,
+      "tags": {
+        "name": "Gorasiya Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2365511220,
+      "lat": 0.2775112,
+      "lon": 32.6146362,
+      "tags": {
+        "name": "super super market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2373730839,
+      "lat": 0.3044261,
+      "lon": 32.564004,
+      "tags": {
+        "name": "Best Buy Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2373730841,
+      "lat": 0.3062483,
+      "lon": 32.5616426,
+      "tags": {
+        "name": "Gods Grace supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2375808458,
+      "lat": 0.2987861,
+      "lon": 32.5338029,
+      "tags": {
+        "name": "Uchumi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2375808461,
+      "lat": 0.2986914,
+      "lon": 32.5336797,
+      "tags": {
+        "name": "Nateete Shopping Centre",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2375816095,
+      "lat": 0.2994674,
+      "lon": 32.5333997,
+      "tags": {
+        "name": "aristo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2414843667,
+      "lat": -0.3173569,
+      "lon": 31.813076,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2414843695,
+      "lat": -0.3778776,
+      "lon": 31.8253353,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2512591467,
+      "lat": -0.385854,
+      "lon": 31.8258699,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2545526391,
+      "lat": 0.3032279,
+      "lon": 32.651574,
+      "tags": {
+        "name": "Harryz Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2617434067,
+      "lat": 0.2996525,
+      "lon": 32.5963379,
+      "tags": {
+        "name": "Uchumi Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2674454372,
+      "lat": 0.2972363,
+      "lon": 32.6028458,
+      "tags": {
+        "name": "Johnrich Cheap Store",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694338789,
+      "lat": 0.3281222,
+      "lon": 32.5704169,
+      "tags": {
+        "branch": "Makerere Branch",
+        "name": "Tuskys",
+        "shop": "supermarket",
+        "website": "https://www.tuskys.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2722936594,
+      "lat": 3.2379227,
+      "lon": 31.5391102,
+      "tags": {
+        "name": "Rupo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2788762682,
+      "lat": 0.3869941,
+      "lon": 32.6205346,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2792256088,
+      "lat": 0.3590945,
+      "lon": 32.7499541,
+      "tags": {
+        "name": "Sombe Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2857797105,
+      "lat": 0.3910371,
+      "lon": 32.5931763,
+      "tags": {
+        "addr:city": "kampala",
+        "addr:street": "Kisaasi Road",
+        "name": "kensington boulevard",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2872768886,
+      "lat": 0.4675018,
+      "lon": 33.2397237,
+      "tags": {
+        "name": "Petrol station Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2923263210,
+      "lat": 0.3213011,
+      "lon": 32.6123769,
+      "tags": {
+        "name": "nssf Bugolobi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2966666275,
+      "lat": 0.3489994,
+      "lon": 32.616874,
+      "tags": {
+        "name": "Capital Shoppers",
+        "phone": "+256 706 267800",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2990518363,
+      "lat": 0.2988112,
+      "lon": 32.6022316,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Tank Hill Road",
+        "name": "Brisk Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3016236521,
+      "lat": 1.4272991,
+      "lon": 31.3583031,
+      "tags": {
+        "name": "New Age Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3066294973,
+      "lat": 0.6146929,
+      "lon": 33.4762696,
+      "tags": {
+        "name": "Iganga Shoppers Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3066294975,
+      "lat": 0.6145194,
+      "lon": 33.4771118,
+      "tags": {
+        "name": "Low Price Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3066294977,
+      "lat": 0.6147357,
+      "lon": 33.4765893,
+      "tags": {
+        "name": "Moon Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3066294983,
+      "lat": 0.6147172,
+      "lon": 33.4764224,
+      "tags": {
+        "name": "Shiv Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3071941171,
+      "lat": -0.3397785,
+      "lon": 31.7383041,
+      "tags": {
+        "name": "Smart Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3071968993,
+      "lat": -0.1456384,
+      "lon": 31.8773386,
+      "tags": {
+        "name": "Paradise Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3073719637,
+      "lat": 0.3289985,
+      "lon": 32.6762738,
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:street": "Anatoli Road",
+        "name": "SuperMkt",
+        "operator": "Akright",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3079683001,
+      "lat": 1.7154755,
+      "lon": 33.6213399,
+      "tags": {
+        "name": "Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3079683429,
+      "lat": 1.7146928,
+      "lon": 33.616851,
+      "tags": {
+        "name": "Supreme Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3206533313,
+      "lat": 0.4239605,
+      "lon": 33.2035849,
+      "tags": {
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3255565910,
+      "lat": 0.5777726,
+      "lon": 32.544368,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3255565911,
+      "lat": 0.5791657,
+      "lon": 32.5440973,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3292453312,
+      "lat": 0.319909,
+      "lon": 32.5920319,
+      "tags": {
+        "level": "-1",
+        "name": "Capital Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3294290361,
+      "lat": 0.4299678,
+      "lon": 33.212235,
+      "tags": {
+        "addr:city": "Jinja",
+        "addr:street": "Lubas Road",
+        "name": "Nile Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3294290902,
+      "lat": 0.4296761,
+      "lon": 33.2120936,
+      "tags": {
+        "addr:city": "Jinja",
+        "addr:street": "Lubas Road",
+        "name": "Lake View Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3324350047,
+      "lat": 0.5412186,
+      "lon": 34.0262001,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3328341236,
+      "lat": 0.3021763,
+      "lon": 32.6173455,
+      "tags": {
+        "name": "Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3332224744,
+      "lat": 1.4301588,
+      "lon": 31.3535599,
+      "tags": {
+        "name": "Destiny Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3334349756,
+      "lat": 1.4321246,
+      "lon": 31.351785,
+      "tags": {
+        "name": "People's Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3336574536,
+      "lat": 1.4310367,
+      "lon": 31.3531783,
+      "tags": {
+        "name": "Nile Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3353739457,
+      "lat": 0.845199,
+      "lon": 32.487494,
+      "tags": {
+        "name": "Luwero Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3362998776,
+      "lat": 0.3096275,
+      "lon": 32.5779528,
+      "tags": {
+        "name": "Shoprite",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380711899,
+      "lat": 0.3043094,
+      "lon": 32.5581974,
+      "tags": {
+        "name": "Africana Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380774906,
+      "lat": 0.2968552,
+      "lon": 32.5543691,
+      "tags": {
+        "name": "Fresh Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380818268,
+      "lat": 0.2732159,
+      "lon": 32.5656462,
+      "tags": {
+        "name": "Outlet Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3381056738,
+      "lat": 0.3475498,
+      "lon": 32.5666021,
+      "tags": {
+        "name": "JRD Grocery",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3391593776,
+      "lat": 0.3529049,
+      "lon": 32.6631412,
+      "tags": {
+        "name": "Splendid Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3391593780,
+      "lat": 0.3689483,
+      "lon": 32.7132432,
+      "tags": {
+        "name": "Tusky's Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3393071083,
+      "lat": 0.4306704,
+      "lon": 33.211371,
+      "tags": {
+        "name": "American Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3394179108,
+      "lat": 0.3547626,
+      "lon": 32.7558088,
+      "tags": {
+        "name": "One Price Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3397198945,
+      "lat": 0.3367535,
+      "lon": 32.6209812,
+      "tags": {
+        "name": "Savers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3398079810,
+      "lat": 0.8456464,
+      "lon": 32.4874467,
+      "tags": {
+        "name": "Pancharatna Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3404121867,
+      "lat": 0.3606254,
+      "lon": 32.5615911,
+      "tags": {
+        "name": "E-Brands Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3404228542,
+      "lat": 0.3165883,
+      "lon": 32.5735113,
+      "tags": {
+        "addr:street": "Kikuubo Lane",
+        "name": "Senana Investment Ltd.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3406756139,
+      "lat": 0.3187309,
+      "lon": 32.5739939,
+      "tags": {
+        "name": "Rwenzori Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3406834696,
+      "lat": 0.393119,
+      "lon": 32.5490554,
+      "tags": {
+        "name": "Highway Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3406834698,
+      "lat": 0.3838312,
+      "lon": 32.5550596,
+      "tags": {
+        "name": "Kiseera Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3406834701,
+      "lat": 0.4036634,
+      "lon": 32.543881,
+      "tags": {
+        "name": "Murazi Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3406834821,
+      "lat": 0.3398626,
+      "lon": 32.571702,
+      "tags": {
+        "name": "Sky Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3428758508,
+      "lat": 0.3499714,
+      "lon": 32.6020908,
+      "tags": {
+        "name": "Kenjoy",
+        "phone": "0414376370",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3429320057,
+      "lat": 0.3380786,
+      "lon": 32.5852926,
+      "tags": {
+        "name": "Savers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3429320065,
+      "lat": 0.3501771,
+      "lon": 32.5981681,
+      "tags": {
+        "name": "5 Star Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3439350231,
+      "lat": 0.3258006,
+      "lon": 32.5737355,
+      "tags": {
+        "name": "Savers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3442438626,
+      "lat": 0.0764862,
+      "lon": 32.4795695,
+      "tags": {
+        "name": "Expresss Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3449159080,
+      "lat": 0.3665477,
+      "lon": 32.5601252,
+      "tags": {
+        "name": "Quicksaver Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3466159843,
+      "lat": 0.182732,
+      "lon": 32.5387072,
+      "tags": {
+        "name": "Bwebajja Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3466159846,
+      "lat": 0.1060597,
+      "lon": 32.5195755,
+      "tags": {
+        "name": "Coinworth Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3466159851,
+      "lat": 0.1774275,
+      "lon": 32.5384315,
+      "tags": {
+        "name": "Joma Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474020293,
+      "lat": 0.343875,
+      "lon": 32.5533103,
+      "tags": {
+        "name": "Joman Grocery",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474020295,
+      "lat": 0.3110256,
+      "lon": 32.5589676,
+      "tags": {
+        "name": "Mengo Shoppers Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474020383,
+      "lat": 0.3248793,
+      "lon": 32.5594861,
+      "tags": {
+        "name": "Tuskys",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474118558,
+      "lat": 0.2399545,
+      "lon": 32.5559391,
+      "tags": {
+        "name": "Crown Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474118564,
+      "lat": 0.2091212,
+      "lon": 32.5413624,
+      "tags": {
+        "name": "Jin Xu Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3474119139,
+      "lat": 0.2213711,
+      "lon": 32.5465183,
+      "tags": {
+        "name": "Visa Shoppers Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3489228957,
+      "lat": 0.7190646,
+      "lon": 32.5280877,
+      "tags": {
+        "name": "Quicky Picky Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3489228960,
+      "lat": 0.585401,
+      "lon": 32.5321124,
+      "tags": {
+        "name": "Shopper's Choice Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3493040994,
+      "lat": 3.0219912,
+      "lon": 30.9107015,
+      "tags": {
+        "FIXME": "Exact location and name unknown",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3493041063,
+      "lat": 3.0207982,
+      "lon": 30.9113908,
+      "tags": {
+        "name": "Westnile Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3493273763,
+      "lat": 0.8321698,
+      "lon": 32.5007275,
+      "tags": {
+        "name": "Quicky Picky Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3509831239,
+      "lat": 0.4283922,
+      "lon": 33.2094947,
+      "tags": {
+        "name": "Byashara Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3559209593,
+      "lat": 0.3942612,
+      "lon": 32.5480685,
+      "tags": {
+        "name": "Akas Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3623524091,
+      "lat": 0.234583,
+      "lon": 32.5535009,
+      "tags": {
+        "name": "Joy Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3623525240,
+      "lat": 0.2504339,
+      "lon": 32.5610931,
+      "tags": {
+        "name": "Regmart Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3639824214,
+      "lat": 0.351093,
+      "lon": 32.5626509,
+      "tags": {
+        "branch": "Bwaise Branch",
+        "name": "Tuskys",
+        "shop": "supermarket",
+        "website": "https://www.tuskys.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3642467521,
+      "lat": 0.2362232,
+      "lon": 32.5543013,
+      "tags": {
+        "name": "Ebenezer Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3652954271,
+      "lat": 0.3824414,
+      "lon": 32.5561276,
+      "tags": {
+        "name": "Buy 'n' Save Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3652954272,
+      "lat": 0.3111825,
+      "lon": 32.5792786,
+      "tags": {
+        "name": "Capital Shoppers",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3670180929,
+      "lat": 0.2666828,
+      "lon": 32.6237555,
+      "tags": {
+        "name": "Cinderella Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3673753538,
+      "lat": 0.8343561,
+      "lon": 32.4982834,
+      "tags": {
+        "name": "Guru Shree Distributors",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684493553,
+      "lat": 0.3597062,
+      "lon": 32.5619144,
+      "tags": {
+        "name": "Home Sales Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3684526544,
+      "lat": 0.2838265,
+      "lon": 32.582963,
+      "tags": {
+        "name": "Mark Enterprises Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3697084310,
+      "lat": 0.4240264,
+      "lon": 33.2068134,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3710948714,
+      "lat": 1.6834729,
+      "lon": 31.7214557,
+      "tags": {
+        "name": "Sasa Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3725278847,
+      "lat": 0.069868,
+      "lon": 32.4612207,
+      "tags": {
+        "addr:city": "Entebbe",
+        "addr:country": "UG",
+        "addr:housenumber": "78",
+        "addr:street": "Nakiwogo Road",
+        "name": "Entebbe Shoppers Supermarket",
+        "opening_hours": "24/7",
+        "phone": "+256 750 841010",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3736112190,
+      "lat": 0.0622908,
+      "lon": 32.4718349,
+      "tags": {
+        "addr:city": "Entebbe",
+        "addr:street": "Kampala Road",
+        "name": "Dreams Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3736569997,
+      "lat": 0.0627977,
+      "lon": 32.4715972,
+      "tags": {
+        "name": "Hajjat Kayizzi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3737281829,
+      "lat": 0.316888,
+      "lon": 32.5737349,
+      "tags": {
+        "name": "Pride Super Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3743747966,
+      "lat": -1.2809991,
+      "lon": 29.6909038,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3743747989,
+      "lat": -1.2826508,
+      "lon": 29.6953624,
+      "tags": {
+        "name": "Obomue Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3743790928,
+      "lat": -1.2815375,
+      "lon": 29.69295,
+      "tags": {
+        "name": "Imperial Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3755756758,
+      "lat": 0.3758506,
+      "lon": 32.6061968,
+      "tags": {
+        "name": "Shop and save",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3791197908,
+      "lat": 1.2273417,
+      "lon": 32.471126,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3797010722,
+      "lat": 0.3151561,
+      "lon": 32.589566,
+      "tags": {
+        "name": "Home Care Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3798804090,
+      "lat": 0.3183104,
+      "lon": 32.5754847,
+      "tags": {
+        "name": "Angies Mini",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3804503428,
+      "lat": 0.3541293,
+      "lon": 32.5721398,
+      "tags": {
+        "name": "Diamond Apex",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3806510186,
+      "lat": 0.2828077,
+      "lon": 32.4561915,
+      "tags": {
+        "name": "Another Life",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3808219451,
+      "lat": 0.3084251,
+      "lon": 32.569258,
+      "tags": {
+        "name": "City Star Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3808219635,
+      "lat": 0.3083143,
+      "lon": 32.5688359,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kisenyi Road",
+        "name": "Mubarak Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3813811822,
+      "lat": 0.3125717,
+      "lon": 32.5773675,
+      "tags": {
+        "name": "Mega Standard Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3813811833,
+      "lat": 0.3122614,
+      "lon": 32.5795715,
+      "tags": {
+        "name": "Kampala Stocks Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3813890243,
+      "lat": 0.3114508,
+      "lon": 32.5792835,
+      "tags": {
+        "name": "Golden Globe Impex Limited",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3813890582,
+      "lat": 0.3130697,
+      "lon": 32.5729713,
+      "tags": {
+        "name": "Rictex Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3814362049,
+      "lat": 0.3085169,
+      "lon": 32.5702937,
+      "tags": {
+        "name": "Najah Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829265263,
+      "lat": 0.6542366,
+      "lon": 30.2731466,
+      "tags": {
+        "name": "Asatex United Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829265266,
+      "lat": 0.6537861,
+      "lon": 30.2730581,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829265590,
+      "lat": 0.6537452,
+      "lon": 30.2750117,
+      "tags": {
+        "name": "Andrews & Brothers Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829265599,
+      "lat": 0.6533038,
+      "lon": 30.2746495,
+      "tags": {
+        "name": "Ji Chang",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829331186,
+      "lat": 0.6533369,
+      "lon": 30.2752426,
+      "tags": {
+        "name": "Low Price Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829331194,
+      "lat": 0.6530803,
+      "lon": 30.2750832,
+      "tags": {
+        "name": "Midtown Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3829331203,
+      "lat": 0.6541402,
+      "lon": 30.2717983,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835237629,
+      "lat": -1.2540291,
+      "lon": 29.9877892,
+      "tags": {
+        "name": "Jamali Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3860715255,
+      "lat": 0.6818562,
+      "lon": 32.5242548,
+      "tags": {
+        "name": "Care Soft Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3920304718,
+      "lat": -1.2821658,
+      "lon": 29.6954657,
+      "tags": {
+        "name": "Okapi Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3927385116,
+      "lat": -1.282761,
+      "lon": 29.6917105,
+      "tags": {
+        "name": "Kisoro Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3941644413,
+      "lat": 0.8456886,
+      "lon": 34.0859173,
+      "tags": {
+        "addr:city": "Mbale",
+        "addr:housenumber": "4",
+        "addr:street": "Republic",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Al'rasul Phone Centre",
+        "network": "Airtel Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3942218893,
+      "lat": 0.3141834,
+      "lon": 32.582164,
+      "tags": {
+        "name": "D & M Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3946485266,
+      "lat": -0.6076687,
+      "lon": 30.6621209,
+      "tags": {
+        "branch": "Mbarara Branch",
+        "name": "Nakumatt",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3948046930,
+      "lat": 1.0733363,
+      "lon": 34.1762228,
+      "tags": {
+        "addr:city": "Mbale",
+        "addr:street": "Bishop Wasike Road",
+        "name": "Abrah Supermarket",
+        "opening_hours": "Mo-Sa 07:00-24:00",
+        "operator": "Mataya Richard",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3948089623,
+      "lat": 1.0733147,
+      "lon": 34.1762363,
+      "tags": {
+        "addr:city": "Mbale",
+        "addr:street": "Bishop wasike road",
+        "amenity": "mobile_money_agent",
+        "description": "101511",
+        "female": "yes",
+        "level": "0",
+        "name": "Mataya Richard Tan Telecom",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+        "phone": "0789771350",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3950442452,
+      "lat": 0.3329004,
+      "lon": 32.6067827,
+      "tags": {
+        "name": "Daviet Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3952573446,
+      "lat": 0.0566371,
+      "lon": 32.4617545,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3954014972,
+      "lat": 1.1575861,
+      "lon": 34.2269433,
+      "tags": {
+        "addr:city": "Buwalasi",
+        "addr:street": "Budadiri Road",
+        "amenity": "mobile_money_agent",
+        "description": "024660",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "AnnetteK Enterprise",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3954014987,
+      "lat": 1.146084,
+      "lon": 34.2638936,
+      "tags": {
+        "addr:city": "Buwasa",
+        "addr:street": "Buwasa Budadiri Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Clinical Consultat and Engineering Co. Ltd",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "0782359757",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3954828584,
+      "lat": -0.6062952,
+      "lon": 30.6666451,
+      "tags": {
+        "name": "Tatiaitwe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3954828592,
+      "lat": -0.6073605,
+      "lon": 30.6618547,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3954828596,
+      "lat": -0.6059923,
+      "lon": 30.6620975,
+      "tags": {
+        "name": "DayToDay Discount Centre",
+        "opening_hours": "Mo-Su 08:00-20:30",
+        "phone": "+256 774 060222",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3954886968,
+      "lat": -0.6042453,
+      "lon": 30.6617022,
+      "tags": {
+        "name": "Mercanicing Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3955077874,
+      "lat": 1.0866263,
+      "lon": 34.1849955,
+      "tags": {
+        "addr:city": "Mbale",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3957035888,
+      "lat": 0.3385014,
+      "lon": 32.5631551,
+      "tags": {
+        "name": "Dove Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3958427002,
+      "lat": 1.3974233,
+      "lon": 34.4510467,
+      "tags": {
+        "addr:city": "Kapchorwa Town Council",
+        "addr:street": "Kapchorwa Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Patel Investments",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3981014864,
+      "lat": 0.3537152,
+      "lon": 32.535777,
+      "tags": {
+        "name": "Divine Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3982514361,
+      "lat": 0.3147042,
+      "lon": 32.5712518,
+      "tags": {
+        "name": "Nice Bazaar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3982840288,
+      "lat": 0.3174698,
+      "lon": 32.5696373,
+      "tags": {
+        "name": "Sharma Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3982955212,
+      "lat": 0.317839,
+      "lon": 32.5694914,
+      "tags": {
+        "name": "Kumar Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3983334968,
+      "lat": 0.2866317,
+      "lon": 32.5803157,
+      "tags": {
+        "name": "Priceless Mini Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3984235973,
+      "lat": 0.2795383,
+      "lon": 32.5834311,
+      "tags": {
+        "name": "Epitome Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3990323938,
+      "lat": 0.6424991,
+      "lon": 34.2628568,
+      "tags": {
+        "addr:city": "Malaba Town Council",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "name": "Northwest Global Solutions",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3990886711,
+      "lat": 0.640862,
+      "lon": 34.2522708,
+      "tags": {
+        "addr:city": "Malaba Town Council",
+        "addr:street": "Kenya Road",
+        "amenity": "mobile_money_agent",
+        "description": "Agent ID 28374",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Celtec Com Traveller's Shop",
+        "network": "Safaricom M-Pesa",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3992090318,
+      "lat": 0.2360367,
+      "lon": 32.5541999,
+      "tags": {
+        "name": "Best Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3994599534,
+      "lat": 0.2107351,
+      "lon": 32.5417705,
+      "tags": {
+        "addr:city": "Kajjansi",
+        "addr:street": "Entebbe  Road",
+        "name": "Vision Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997879808,
+      "lat": 0.4713214,
+      "lon": 34.0907345,
+      "tags": {
+        "addr:street": "Tiira Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Friday Fish Company",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997879812,
+      "lat": 0.468331,
+      "lon": 34.0893469,
+      "tags": {
+        "addr:city": "Western Division",
+        "addr:street": "Market Lane",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Huholela A lala Enterprises",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "0789786039",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997879850,
+      "lat": 0.4669731,
+      "lon": 34.0878475,
+      "tags": {
+        "addr:city": "Western Division",
+        "addr:street": "Jinja Road",
+        "amenity": "mobile_money_agent",
+        "description": "052882",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Victory Money Transactions",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997879852,
+      "lat": 0.4724109,
+      "lon": 34.0900697,
+      "tags": {
+        "addr:city": "Western Division",
+        "addr:street": "Buchicha Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Wanyamamacho Frank",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+        "phone": "0779220499",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997880258,
+      "lat": 0.4663344,
+      "lon": 34.0869284,
+      "tags": {
+        "addr:street": "Odoki Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "network": "Airtel Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3997958675,
+      "lat": 0.4663488,
+      "lon": 34.0973873,
+      "tags": {
+        "addr:city": "Western Division",
+        "addr:street": "Sophia Road",
+        "amenity": "mobile_money_agent",
+        "description": "Agent ID 204354",
+        "male": "yes",
+        "name": "Hamnat",
+        "network": "MTN Mobile Money",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3998484523,
+      "lat": 0.2575636,
+      "lon": 32.507979,
+      "tags": {
+        "name": "Reneka Distributors",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4003306161,
+      "lat": 0.3266854,
+      "lon": 32.6109119,
+      "tags": {
+        "name": "Bonjour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4005082564,
+      "lat": 0.3674868,
+      "lon": 32.6329567,
+      "tags": {
+        "level": "1",
+        "name": "Shoprite Checkers Uganda Limited",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4017086109,
+      "lat": 0.3612111,
+      "lon": 32.6194301,
+      "tags": {
+        "name": "Sunny China Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4018003963,
+      "lat": 0.3613596,
+      "lon": 32.6198824,
+      "tags": {
+        "name": "Del Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4018003964,
+      "lat": 0.3617712,
+      "lon": 32.6218855,
+      "tags": {
+        "name": "Jukena Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4018004017,
+      "lat": 0.3615473,
+      "lon": 32.620529,
+      "tags": {
+        "name": "Royal Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4039832076,
+      "lat": -0.1834299,
+      "lon": 31.8493297,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4039853812,
+      "lat": 0.4384141,
+      "lon": 33.2122923,
+      "tags": {
+        "addr:city": "Masese/Walukuba Division",
+        "addr:street": "Kabenge",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4039858954,
+      "lat": 0.4384141,
+      "lon": 33.2122923,
+      "tags": {
+        "addr:city": "Jinja",
+        "addr:street": "Kabenge",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4040069192,
+      "lat": 0.4387058,
+      "lon": 33.2120244,
+      "tags": {
+        "addr:city": "Masese/Walukuba Division",
+        "addr:street": "Kabenge",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4048797255,
+      "lat": 0.6194495,
+      "lon": 33.4797406,
+      "tags": {
+        "addr:city": "Iganga",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4050241989,
+      "lat": 0.4252449,
+      "lon": 33.2077242,
+      "tags": {
+        "level": "0",
+        "name": "Igar Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052756518,
+      "lat": 0.7247994,
+      "lon": 33.5835314,
+      "tags": {
+        "addr:city": "Namalemba",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Field Star",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 7:00-18:00",
+        "phone": "0704065622",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052757129,
+      "lat": 0.7777204,
+      "lon": 33.6233556,
+      "tags": {
+        "addr:city": "Busembatia Town Council",
+        "addr:street": "Central Road",
+        "amenity": "mobile_money_agent",
+        "description": "Agent not available",
+        "level": "0",
+        "male": "yes",
+        "network": "MTN Mobile Money",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052772023,
+      "lat": 0.6138939,
+      "lon": 33.4757269,
+      "tags": {
+        "addr:city": "Central Division",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Domestic Store Ltd",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4052772031,
+      "lat": 0.6122559,
+      "lon": 33.4758308,
+      "tags": {
+        "addr:city": "Central Division",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Grace Shoppers",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4069755643,
+      "lat": 0.6194495,
+      "lon": 33.4797406,
+      "tags": {
+        "addr:city": "Northern Division",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4079913427,
+      "lat": 0.7188891,
+      "lon": 32.5284159,
+      "tags": {
+        "name": "Wobulenzi Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4086537401,
+      "lat": 0.3856599,
+      "lon": 32.5777426,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Gayaza Road",
+        "amenity": "mobile_money_agent",
+        "description": "Not around",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4086537403,
+      "lat": 0.3972018,
+      "lon": 32.5814614,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Gayaza Road",
+        "amenity": "mobile_money_agent",
+        "description": "Agent refused to give information",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4086729514,
+      "lat": 0.3686523,
+      "lon": 32.5853271,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "kitala taso road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Vision limited",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "0704826767",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4089998430,
+      "lat": 0.3691045,
+      "lon": 32.5536393,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Lugabo Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Hajji Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4090056206,
+      "lat": 0.3470355,
+      "lon": 32.5667096,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Bombo Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Nema Investments",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4090270143,
+      "lat": 0.7186452,
+      "lon": 32.5284332,
+      "tags": {
+        "name": "Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4097455461,
+      "lat": 0.3353675,
+      "lon": 32.5620252,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kimera street",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Prince Hostel Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4100217904,
+      "lat": 0.3533557,
+      "lon": 32.5983055,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kisaasi Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102222524,
+      "lat": 0.3376365,
+      "lon": 32.5422147,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kigobe Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Carol & Daughters Glocery",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "0772441994",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102252562,
+      "lat": 0.3080547,
+      "lon": 32.5971638,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Alone Talkrim",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102400559,
+      "lat": 0.2978356,
+      "lon": 32.6020019,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Ggaba Road",
+        "female": "yes",
+        "male": "no",
+        "name": "Friendly Supermarket",
+        "name:en": "Friendly Supermarket",
+        "name:zh": "友好超市",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102526890,
+      "lat": 0.3379349,
+      "lon": 32.5550866,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kawala Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Bahe Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102526902,
+      "lat": 0.3400377,
+      "lon": 32.5544858,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kawala Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "yes",
+        "name": "Mummy and Daddy Grocery",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102531687,
+      "lat": 0.3361035,
+      "lon": 32.6094823,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Katalima Loop",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Quick Pick Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102652128,
+      "lat": 0.3893626,
+      "lon": 32.5925679,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4102726413,
+      "lat": 0.275087,
+      "lon": 32.6040156,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Lukuli Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Kalonge And Shoppers",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4104666140,
+      "lat": 0.3295013,
+      "lon": 32.5492726,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Masiro Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "name": "Skyways Supermarket",
+        "network": "Airtel Money;UTL M-Sente;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4104720692,
+      "lat": 0.3168933,
+      "lon": 32.5523665,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Sentema Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Extra Groceries",
+        "network": "Airtel Money;MTN Mobile Money",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4105304556,
+      "lat": 0.3207933,
+      "lon": 32.6185006,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Spring Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "name": "Jazz Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4105394617,
+      "lat": 0.3270116,
+      "lon": 32.611414,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Bonjour",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4105543895,
+      "lat": 0.375803,
+      "lon": 32.6001328,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107447819,
+      "lat": 0.3079898,
+      "lon": 32.5161947,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Masaka Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "name": "Jena Mini Glocery",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107447823,
+      "lat": 0.305107,
+      "lon": 32.519599,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Masaka Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Margin free Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107447836,
+      "lat": 0.3031213,
+      "lon": 32.5249138,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Masaka Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107557040,
+      "lat": 0.3113234,
+      "lon": 32.5592626,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Albert Cook Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Rapid Response",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107557046,
+      "lat": 0.3111164,
+      "lon": 32.5590746,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Albert Cook Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Swab Investments",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107571594,
+      "lat": 0.2485095,
+      "lon": 32.6122933,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Salaama Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Lucky Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107571595,
+      "lat": 0.2467063,
+      "lon": 32.6186322,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Lukuli Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "M&J Retail Shop",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107571606,
+      "lat": 0.2963511,
+      "lon": 32.5756256,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kayemba Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "name": "Safe Enterprise",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00; Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107662765,
+      "lat": 0.3167029,
+      "lon": 32.5420403,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Makamba Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "name": "Jez Min Shoppers",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107809640,
+      "lat": 0.368624,
+      "lon": 32.6030794,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kisaasi Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4107809661,
+      "lat": 0.3719817,
+      "lon": 32.6015805,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kisaasi Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes;no",
+        "network": "Airtel Money;Vodacom M-Pesa;UTL M-Sente;MTN Mobile Money",
+        "opening_hours": "Mo-Su 08 : 00 - 21 : 00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109362102,
+      "lat": 0.2970858,
+      "lon": 32.5415694,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Masaka Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Quick Supermarket",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109438367,
+      "lat": 0.2797962,
+      "lon": 32.5659227,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Entebbe Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "name": "Buge Shop",
+        "network": "Airtel Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109438377,
+      "lat": 0.2791831,
+      "lon": 32.5661714,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Entebbe Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "name": "Jajo Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "0705929180",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109438383,
+      "lat": 0.2844785,
+      "lon": 32.5628244,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kiwewa Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Lynzz Shopping Point",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "0751923192",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109498898,
+      "lat": 0.2999537,
+      "lon": 32.5568587,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kabuusu Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Kyles",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109498901,
+      "lat": 0.3023198,
+      "lon": 32.5581775,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kabuusu Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Martin Telecom Services",
+        "network": "MTN Mobile Money;Airtel Money",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4114253389,
+      "lat": 0.3386865,
+      "lon": 32.5880803,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "level": "0",
+        "male": "yes",
+        "name": "Haba Quick Services Limited",
+        "network": "MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4114345231,
+      "lat": 0.2974362,
+      "lon": 32.5596126,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Nabunya Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "yes",
+        "name": "A & B Grocery",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4114531273,
+      "lat": 0.2902352,
+      "lon": 32.5633907,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Weraga Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "J And S Retailers",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4116892000,
+      "lat": 0.3079015,
+      "lon": 32.5682356,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kisenyi Road",
+        "female": "yes",
+        "male": "no",
+        "name": "Kisenyi Diamond Accesories",
+        "network": "Airtel Money;Safaricom M-Pesa;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4116913536,
+      "lat": 0.3611731,
+      "lon": 32.5961995,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kikulu Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Solace Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4117141926,
+      "lat": 0.3215189,
+      "lon": 32.6377711,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "1",
+        "male": "no",
+        "name": "Ariena Enterprises",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4117141928,
+      "lat": 0.323681,
+      "lon": 32.6388123,
+      "tags": {
+        "addr:city": "Kampala",
+        "female": "yes",
+        "male": "yes",
+        "name": "Eriamis Supermarket",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4118808321,
+      "lat": 0.3110417,
+      "lon": 32.5773348,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Burton Street",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Mega Standard Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4119115393,
+      "lat": 0.3168537,
+      "lon": 32.5699918,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Martin Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "male": "yes",
+        "name": "Quality Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4119120225,
+      "lat": 0.3781864,
+      "lon": 32.5912015,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4119308378,
+      "lat": 0.343104,
+      "lon": 32.589283,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "1",
+        "male": "yes",
+        "name": "Price Chopper Supermarket",
+        "network": "Airtel Money;payway;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4120889500,
+      "lat": 0.3174123,
+      "lon": 32.5758979,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kampala Road",
+        "amenity": "mobile_money_agent",
+        "female": "no",
+        "level": "0",
+        "male": "yes",
+        "name": "Muto's Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4123466924,
+      "lat": 0.3170609,
+      "lon": 32.5736407,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Kikubo Lane",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Pride Supermarket",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4123796172,
+      "lat": 0.3051386,
+      "lon": 32.5460681,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Sekabaka Kintu Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Ray C's Retailers",
+        "network": "Airtel Money;MTN Mobile Money",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4123796175,
+      "lat": 0.3049951,
+      "lon": 32.5460691,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Sekabaka Kintu Road",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "name": "Silver Apples Reatail Outlet",
+        "network": "Airtel Money;MTN Mobile Money",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4124066938,
+      "lat": 0.3642061,
+      "lon": 32.6106179,
+      "tags": {
+        "addr:city": "Kampala",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "male": "yes",
+        "name": "Harambe Supermarket",
+        "network": "Airtel Money;payway;MTN Mobile Money",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4133512993,
+      "lat": 0.3658101,
+      "lon": 32.6159592,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Ntinda-Kigoowa",
+        "amenity": "mobile_money_agent",
+        "female": "yes",
+        "level": "0",
+        "male": "no",
+        "network": "Airtel Money;MTN Mobile Money",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4325147128,
+      "lat": 0.4603783,
+      "lon": 32.6338813,
+      "tags": {
+        "designation": "supermarket",
+        "name": "Zam Zam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379218548,
+      "lat": -1.2522498,
+      "lon": 29.9872264,
+      "tags": {
+        "addr:city": "Kabale",
+        "addr:street": "Kabale - Kisoro Road",
+        "name": "Royal Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379221099,
+      "lat": -1.2527481,
+      "lon": 29.9872587,
+      "tags": {
+        "addr:city": "Kabale",
+        "addr:street": "Kabale - Kisoro Road",
+        "name": "Royal Blue Supermarket Kabale",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379221100,
+      "lat": -1.2530803,
+      "lon": 29.9874858,
+      "tags": {
+        "addr:city": "Kabale",
+        "addr:street": "Kabale - Kisoro Road",
+        "name": "Cash and Carry Supermarket Kabale",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4398648199,
+      "lat": 0.5657909,
+      "lon": 33.7520864,
+      "tags": {
+        "name": "Aunt Annet Bueaty shop",
+        "opening_hours": "8:00-21:30",
+        "operator": "Annet",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4436331569,
+      "lat": 1.7647846,
+      "lon": 33.1513242,
+      "tags": {
+        "name": "Kaberamaido Market A",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4442145496,
+      "lat": 0.3182217,
+      "lon": 32.5981243,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Old Portbell Road",
+        "name": "Bonjour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4442270017,
+      "lat": 0.3191719,
+      "lon": 32.6000991,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:street": "Old Portbell Road",
+        "name": "Shop Dot Com",
+        "operator": "Petro",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4455172021,
+      "lat": 2.5319091,
+      "lon": 34.6537979,
+      "tags": {
+        "name": "Rumbek Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4455204948,
+      "lat": 2.5328331,
+      "lon": 34.6553411,
+      "tags": {
+        "name": "Achiangimoe Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4455229418,
+      "lat": 2.5324423,
+      "lon": 34.6554026,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4496477708,
+      "lat": 1.7199507,
+      "lon": 33.6050837,
+      "tags": {
+        "name": "FAI supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4572292148,
+      "lat": 0.1759322,
+      "lon": 30.0781037,
+      "tags": {
+        "name": "Lion of Judah Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4573888956,
+      "lat": 0.1780782,
+      "lon": 30.079027,
+      "tags": {
+        "name": "Titi's Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4573991248,
+      "lat": 0.1761163,
+      "lon": 30.0806484,
+      "tags": {
+        "name": "Kasese Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4633314192,
+      "lat": 2.7719214,
+      "lon": 32.2985482,
+      "tags": {
+        "addr:housenumber": "21/23",
+        "addr:street": "Queen's Lane",
+        "name": "Grand shoper super market",
+        "name:en": "Grand shoper super market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "0700000090",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4657859071,
+      "lat": 2.8288733,
+      "lon": 33.3048716,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4695511103,
+      "lat": 0.3452873,
+      "lon": 32.5876248,
+      "tags": {
+        "name": "Praise Jesus Glossary",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4722114319,
+      "lat": 0.3509988,
+      "lon": 32.6053746,
+      "tags": {
+        "name": "Safeway Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4730416084,
+      "lat": 3.4654448,
+      "lon": 31.2467941,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4755806422,
+      "lat": 0.2886127,
+      "lon": 32.6068126,
+      "tags": {
+        "name": "ELITE supermarket",
+        "name:en": "ELITE supermarket",
+        "name:zh": "爱丽特 超市",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4782852236,
+      "lat": 0.299298,
+      "lon": 32.6083191,
+      "tags": {
+        "name": "TMT Supermarket",
+        "name:en": "MTM Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4784556925,
+      "lat": 0.2962713,
+      "lon": 32.5420262,
+      "tags": {
+        "name": "Family Supermarket",
+        "name:en": "Family Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4788396719,
+      "lat": -1.2529485,
+      "lon": 29.9873864,
+      "tags": {
+        "name": "Active Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4805803787,
+      "lat": 0.0948788,
+      "lon": 32.5025913,
+      "tags": {
+        "amenity": "atm",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4820488627,
+      "lat": 0.0948151,
+      "lon": 32.5025398,
+      "tags": {
+        "name": "Buy N Save Supermarket",
+        "name:en": "Buy N Save Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824895725,
+      "lat": 0.2265235,
+      "lon": 32.5494044,
+      "tags": {
+        "name": "Quick Saver Supermarket",
+        "name:en": "Quick Saver Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824895728,
+      "lat": 0.3966567,
+      "lon": 32.6814382,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824896529,
+      "lat": 0.3702324,
+      "lon": 32.7249429,
+      "tags": {
+        "name": "Kigunga Super-market",
+        "name:en": "Kigunga Super-market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824896922,
+      "lat": 0.1401066,
+      "lon": 32.5399813,
+      "tags": {
+        "name": "Morning Star Supermarket",
+        "name:en": "Morning Star Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824896927,
+      "lat": 0.2078675,
+      "lon": 32.5412256,
+      "tags": {
+        "name": "Besa Supermarket",
+        "name:en": "Besa Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824906924,
+      "lat": 0.369521,
+      "lon": 32.7137307,
+      "tags": {
+        "name": "Sunjor Supermarket",
+        "name:en": "Sunjor Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828108826,
+      "lat": 0.1428336,
+      "lon": 32.5426583,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4839771479,
+      "lat": 0.1762052,
+      "lon": 30.0801937,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4971668739,
+      "lat": 3.0207924,
+      "lon": 30.9110996,
+      "tags": {
+        "name": "Jin Hong Yun Supermarket",
+        "name:en": "Jin Hong Yun Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4978829522,
+      "lat": 0.1382959,
+      "lon": 32.5385773,
+      "tags": {
+        "name": "Abujjah shopping centre",
+        "name:en": "Abujjah shopping centre",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5015892621,
+      "lat": 0.3164204,
+      "lon": 32.5739892,
+      "tags": {
+        "name:zh": "中国超市",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5136006521,
+      "lat": 1.7920247,
+      "lon": 32.0140418,
+      "tags": {
+        "name": "Save More",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5223523502,
+      "lat": 1.430341,
+      "lon": 31.3533949,
+      "tags": {
+        "name": "Annex",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5301939711,
+      "lat": -1.2578566,
+      "lon": 29.9955046,
+      "tags": {
+        "name": "Legacy Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5317939618,
+      "lat": 3.0183043,
+      "lon": 31.0364181,
+      "tags": {
+        "addr:county": "Ayivu",
+        "addr:district": "Arua",
+        "addr:parish": "Yabiavoko",
+        "addr:subcounty": "Oluko",
+        "addr:village": "Okalia",
+        "name": "Baby Sanyu Kiosk",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "start_date": "2014-08-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5317941423,
+      "lat": 3.0800698,
+      "lon": 31.4570295,
+      "tags": {
+        "addr:county": "Madi Okollo",
+        "addr:district": "Arua",
+        "addr:parish": "Aliba",
+        "addr:subcounty": "Rigbo",
+        "addr:village": "Fundo",
+        "name": "Fundo Shop",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "start_date": "2010-08-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5317941428,
+      "lat": 3.1273083,
+      "lon": 31.378289,
+      "tags": {
+        "addr:county": "Madi Okollo",
+        "addr:district": "Arua",
+        "addr:parish": "Ododu",
+        "addr:subcounty": "Rigbo",
+        "addr:village": "Amangunga",
+        "name": "Coco Shop",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "shop": "supermarket",
+        "start_date": "1997-08-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5322234781,
+      "lat": 3.1260883,
+      "lon": 31.1602667,
+      "tags": {
+        "addr:block": "Block A",
+        "addr:district": "Arua",
+        "addr:settlement": "Rhino Camp",
+        "addr:village": "Ofua 03",
+        "addr:zone": "Ofua",
+        "name": "Luruja Shop",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "shop": "supermarket",
+        "start_date": "2017-03-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5333996546,
+      "lat": -1.2512288,
+      "lon": 29.9860641,
+      "tags": {
+        "name": "Good Times",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5389342222,
+      "lat": 0.364416,
+      "lon": 32.6239329,
+      "tags": {
+        "addr:street": "Kiwatule Road",
+        "name": "New Day Supermarket",
+        "opening_hours": "Mo-Su 07:00-10:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5401506023,
+      "lat": 1.6833211,
+      "lon": 31.7201101,
+      "tags": {
+        "addr:street": "Commercial Street",
+        "name": "Lucky 7 supermarket",
+        "name:nl": "Lucky 7 supermarkt",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5401515821,
+      "lat": 1.6825584,
+      "lon": 31.7211536,
+      "tags": {
+        "name": "Karibuni Supermarket",
+        "name:nl": "Karibuni Supermarkt",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5495063987,
+      "lat": 0.1999445,
+      "lon": 32.5408688,
+      "tags": {
+        "addr:city": "Kitende",
+        "addr:street": "Entebbe - Kampala Road",
+        "name": "Quality Supermarket Kitende",
+        "opening_hours": "Mo-Sa 08:00-22:00",
+        "operator": "Quality",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5497696033,
+      "lat": 0.6507037,
+      "lon": 30.272382,
+      "tags": {
+        "name": "City Granary",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5518261131,
+      "lat": 0.0611764,
+      "lon": 32.4625997,
+      "tags": {
+        "name": "базар",
+        "name:en": "базар",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5523504752,
+      "lat": 0.2111792,
+      "lon": 32.5419908,
+      "tags": {
+        "addr:city": "Kajjansi",
+        "addr:street": "Entebbe  Road",
+        "name": "Bonjour",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Total",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5556925421,
+      "lat": 3.0065392,
+      "lon": 34.1138071,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5566719863,
+      "lat": 3.440205,
+      "lon": 31.1851267,
+      "tags": {
+        "addr:county": "Aringa",
+        "addr:district": "Yumbe",
+        "addr:parish": "Omba",
+        "addr:subcounty": "Kuru",
+        "addr:village": "Renenga",
+        "name": "Kuru Super Market",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "shop": "supermarket",
+        "source": "HOT-Uganda",
+        "source:form": "CBI;v3.0.2",
+        "start_date": "01/07/2013"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5587557212,
+      "lat": 3.4676308,
+      "lon": 31.2487125,
+      "tags": {
+        "addr:county": "Aringa",
+        "addr:district": "Yumbe",
+        "addr:parish": "Bilewu",
+        "addr:subcounty": "Yumbe Town Council",
+        "addr:village": "East Yumbe",
+        "name": "Asil Supermarket",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "HOT-Uganda",
+        "source:form": "CBI;v3.0.2",
+        "start_date": "01/02/2003"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5587557214,
+      "lat": 3.464855,
+      "lon": 31.2470067,
+      "tags": {
+        "addr:county": "Aringa",
+        "addr:district": "Yumbe",
+        "addr:parish": "Bilewu",
+        "addr:subcounty": "Yumbe Town Council",
+        "addr:village": "East Yumbe",
+        "name": "A.S.B Supermarket",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "source": "HOT-Uganda",
+        "source:form": "CBI;v3.0.2",
+        "start_date": "01/08/1999"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5595258821,
+      "lat": 2.4612048,
+      "lon": 31.4340256,
+      "tags": {
+        "name": "Eat Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599832027,
+      "lat": 0.2350455,
+      "lon": 32.553662,
+      "tags": {
+        "addr:street": "Entebbe - Kampala Road",
+        "name": "Dreamz Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5599832322,
+      "lat": 0.2377447,
+      "lon": 32.5548943,
+      "tags": {
+        "addr:street": "Entebbe - Kampala Road",
+        "name": "Dubai Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5656483582,
+      "lat": 1.4599718,
+      "lon": 31.3528738,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5875492959,
+      "lat": 0.3532594,
+      "lon": 32.5978348,
+      "tags": {
+        "name": "Best Buy",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5890447388,
+      "lat": 0.3189833,
+      "lon": 32.5755357,
+      "tags": {
+        "addr:housenumber": "24-27",
+        "addr:street": "Buganda Road",
+        "name": "Senana Hypermarket",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "operator": "senana investments",
+        "phone": "0200906625",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951651537,
+      "lat": 0.2560368,
+      "lon": 32.6350446,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:division": "Makindye",
+        "addr:parish": "Ggaba",
+        "addr:village": "Ggaba Mission",
+        "shop": "supermarket",
+        "source": "UOM Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951651988,
+      "lat": 0.2562044,
+      "lon": 32.6352276,
+      "tags": {
+        "name": "Ggaba shopping center",
+        "opening_hours": "Mo-Su 17:00-00:00",
+        "shop": "supermarket",
+        "source": "UOM Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5951653097,
+      "lat": 0.2568547,
+      "lon": 32.6354629,
+      "tags": {
+        "addr:city": "Kampala",
+        "addr:division": "Makindye",
+        "addr:parish": "Ggaba",
+        "addr:village": "Ggaba Mission",
+        "name": "Miracle Supermarket",
+        "opening_hours": "Mo-Su 17:00-00:00",
+        "shop": "supermarket",
+        "source": "UOM Field Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5998326992,
+      "lat": 1.1599983,
+      "lon": 30.7922933,
+      "tags": {
+        "addr:block": "Block 91",
+        "addr:district": "Hoima",
+        "addr:settlement": "Kyangwali",
+        "addr:village": "Maratatu C",
+        "addr:zone": "Zone E",
+        "name": "Godefura Shops",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "shop": "supermarket",
+        "source": "HOT-Uganda",
+        "source:form": "CBI;v4.0.0",
+        "start_date": "2018-03-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6106942541,
+      "lat": 0.3065609,
+      "lon": 32.6011287,
+      "tags": {
+        "name": "FunFair Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6134647951,
+      "lat": 0.3872936,
+      "lon": 31.0945702,
+      "tags": {
+        "name": "Bukere Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6150851185,
+      "lat": 0.268096,
+      "lon": 32.5891938,
+      "tags": {
+        "name": "Mukama Mwesigwa Supermarket",
+        "operator": "Mukama Mwesigwa group",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282699743,
+      "lat": -0.8159617,
+      "lon": 30.9438733,
+      "tags": {
+        "addr:block": "Kabahinda c",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Juru",
+        "addr:village": "Village C",
+        "addr:zone": "Kabahinda",
+        "amenity": "Shop",
+        "name": "Manirakiza Shop",
+        "opening_hours": "24_7",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282700237,
+      "lat": -0.730998,
+      "lon": 31.0394868,
+      "tags": {
+        "addr:block": "KaritimaA",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Rubondo",
+        "addr:village": "Village A",
+        "addr:zone": "Kalitima",
+        "amenity": "Shop",
+        "name": "Bahathi Shop",
+        "opening_hours": "Mo-Fr_08:30-15:30",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282700596,
+      "lat": -0.7524367,
+      "lon": 30.9633705,
+      "tags": {
+        "addr:block": "Kasasa",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Base Camp",
+        "addr:village": "Village A",
+        "addr:zone": "Kasasa",
+        "amenity": "Shop",
+        "name": "Kazungu Shop",
+        "opening_hours": "Mo-Fr_08:30-15:30",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282700605,
+      "lat": -0.7747092,
+      "lon": 30.9389017,
+      "tags": {
+        "addr:block": "Nyarugugu B",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Base Camp",
+        "addr:village": "Village B",
+        "addr:zone": "Nyarugugu",
+        "amenity": "Shop",
+        "name": "Haleluya Supetmarket",
+        "opening_hours": "Mo-Sa_09:00-17:00",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282700607,
+      "lat": -0.7721747,
+      "lon": 30.9344665,
+      "tags": {
+        "addr:block": "Nyarugugu B",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Base Camp",
+        "addr:village": "Village B",
+        "addr:zone": "Nyarugugu",
+        "amenity": "Shop",
+        "name": "Claudine's Shop",
+        "opening_hours": "Mo-Fr_08:30-15:30",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282700643,
+      "lat": -0.7769467,
+      "lon": 30.9515633,
+      "tags": {
+        "addr:block": "New hope",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Base Camp",
+        "addr:village": "New Hope",
+        "addr:zone": "Kashojwa",
+        "amenity": "Shop",
+        "name": "Hajat Mini Supermarket",
+        "opening_hours": "Mo-Fr_08:30-15:30",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282700666,
+      "lat": -0.7734017,
+      "lon": 30.9355467,
+      "tags": {
+        "addr:block": "NyaruguguB",
+        "addr:district": "Isingiro",
+        "addr:settlement": "Nakivale",
+        "addr:sub_camp": "Base Camp",
+        "addr:village": "Village B",
+        "addr:zone": "Nyarugugu",
+        "amenity": "Shop",
+        "name": "Buchanan Shop",
+        "opening_hours": "Mo-Fr_08:30-15:30",
+        "shop": "supermarket",
+        "source": "HOT_Uganda",
+        "source:form": "v_4.0.4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6285337999,
+      "lat": 1.4321386,
+      "lon": 31.3517925,
+      "tags": {
+        "name": "People’s Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6514707887,
+      "lat": -1.2528137,
+      "lon": 29.987298,
+      "tags": {
+        "name": "Active supermarket",
+        "opening_hours": "Mo-Su 09:00-22:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6560486785,
+      "lat": 0.332624,
+      "lon": 32.490877,
+      "tags": {
+        "addr:street": "Fort Portal - Kampala Road",
+        "name": "His Grace Supermakert",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+256392548054",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6560486885,
+      "lat": 0.3324758,
+      "lon": 32.4913163,
+      "tags": {
+        "addr:street": "Fort Portal - Kampala Road",
+        "name": "Jolet Supermarket",
+        "opening_hours": "Mo-Su 08:00-22:45",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 124542611,
+      "nodes": [
+        1386101459,
+        1386101458,
+        1386101456,
+        1386101455,
+        1386101459
+      ],
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 127569244,
+      "nodes": [
+        1411555731,
+        4440465709,
+        1411555728,
+        1411555729,
+        4440465717,
+        1411555727,
+        4440465710,
+        1411555731
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bonjour",
+        "operator": "Total",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129510235,
+      "nodes": [
+        1428791130,
+        1428791116,
+        1428791114,
+        1428791122,
+        1428791120,
+        1428791130
+      ],
+      "tags": {
+        "name": "bugujju sp",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157841513,
+      "nodes": [
+        1700860010,
+        1700860012,
+        1700860011,
+        1700860013,
+        1700860018,
+        1700860014,
+        1700860019,
+        4483871927,
+        1700860010
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Nakumatt",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161296828,
+      "nodes": [
+        1732871155,
+        1732870984,
+        1732871001,
+        1732870940,
+        1732871155
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "City Shoppers Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 167452434,
+      "nodes": [
+        1788466095,
+        1788466072,
+        1788466073,
+        1788466106,
+        1788466095
+      ],
+      "tags": {
+        "name": "Embassy Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168146958,
+      "nodes": [
+        1794464639,
+        1794464646,
+        1794464641,
+        1794464645,
+        1794464639
+      ],
+      "tags": {
+        "name": "Super Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 181593740,
+      "nodes": [
+        1920055641,
+        1920055696,
+        1920055649,
+        1920055622,
+        1920055641
+      ],
+      "tags": {
+        "name": "Golf Course Supermarket/Ark Cafe/Club Vegas",
+        "opening_hours": "Mo-Fr 08:30-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206392729,
+      "nodes": [
+        2164034812,
+        2164034811,
+        2164034810,
+        2164034809,
+        2164034812
+      ],
+      "tags": {
+        "addr:postcode": "256",
+        "name": "God's Supermarket",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211465544,
+      "nodes": [
+        2214786455,
+        2214786505,
+        2214786528,
+        2214786474,
+        2214786455
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 228883723,
+      "nodes": [
+        2375428736,
+        2375428719,
+        2375428705,
+        2375428698,
+        2375428737,
+        2375428736
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 228883728,
+      "nodes": [
+        2375428645,
+        2375428592,
+        2375428604,
+        2375428599,
+        2375428600,
+        2375428633,
+        2375428637,
+        2375428662,
+        2375428645
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 230331786,
+      "nodes": [
+        2388473597,
+        2388473590,
+        2388473601,
+        2388473600,
+        2388473597
+      ],
+      "tags": {
+        "name": "chum supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255707664,
+      "nodes": [
+        2613789493,
+        2613789494,
+        2613789495,
+        2613789496,
+        2613789497,
+        2613789498,
+        2613789493
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Super supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260734306,
+      "nodes": [
+        2662971883,
+        2662971877,
+        2662971872,
+        2662971864,
+        2662971856,
+        2662971868,
+        2662971883
+      ],
+      "tags": {
+        "name": "Extra Groceries",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260799342,
+      "nodes": [
+        2663562420,
+        2663562413,
+        2663562428,
+        2663562433,
+        2663562420
+      ],
+      "tags": {
+        "name": "Bulange Food Point",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263780788,
+      "nodes": [
+        2694338722,
+        2694338729,
+        2694338725,
+        6238841612,
+        6238841636,
+        2694338718,
+        2694338722
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 302835450,
+      "nodes": [
+        3071129214,
+        3071129242,
+        3071129240,
+        3071129210,
+        3071129214
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "D-Mark Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313237754,
+      "nodes": [
+        3191436722,
+        3191436723,
+        3191436724,
+        3191436725,
+        3191436722
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Coinworth Supermarket",
+        "opening_hours": "8:00 - 00:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315184420,
+      "nodes": [
+        3212806494,
+        3212806472,
+        3212806471,
+        3212806474,
+        3212806494
+      ],
+      "tags": {
+        "addr:city": "Entebbe",
+        "addr:country": "UG",
+        "building": "yes",
+        "name": "Pearl Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 323453473,
+      "nodes": [
+        3302449117,
+        3302449116,
+        3302449106,
+        3302449104,
+        3302449107,
+        3302449114,
+        3302449108,
+        3790273072,
+        3302449112,
+        3302449117
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Kamuli Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375890207,
+      "nodes": [
+        3792299823,
+        6239049857,
+        3792299824,
+        3792299825,
+        3792299826,
+        3792304848,
+        3792308542,
+        3792299823
+      ],
+      "tags": {
+        "addr:city": "Mukono",
+        "building": "yes",
+        "name": "Midway supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 378887411,
+      "nodes": [
+        3822470782,
+        3822470783,
+        3822470784,
+        3822470785,
+        3822470782
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "wau mart supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 379708600,
+      "nodes": [
+        3830356555,
+        2214786552,
+        2214786564,
+        2214786736,
+        2214786726,
+        3830356555
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Big save super market",
+        "operator": "opens daily",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387922136,
+      "nodes": [
+        3911510103,
+        3911510104,
+        3911510105,
+        3911510106,
+        3911510103
+      ],
+      "tags": {
+        "addr:city": "Bunamwaya",
+        "addr:postcode": "256",
+        "building": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391581926,
+      "nodes": [
+        3948060344,
+        3948060345,
+        3948060346,
+        3948060347,
+        3948060344
+      ],
+      "tags": {
+        "addr:city": "Mbale",
+        "addr:street": "Naboa Street",
+        "building": "yes",
+        "name": "Bam Shopping Centre",
+        "operator": "Bam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502043234,
+      "nodes": [
+        4926388357,
+        4926388354,
+        4926388355,
+        4926388356,
+        4926388357
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Zawadi/ Akiba",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2214786455,
+      "lat": -0.5401157,
+      "lon": 30.1863331
+    },
+    {
+      "type": "node",
+      "id": 2214786474,
+      "lat": -0.5401501,
+      "lon": 30.1864209
+    },
+    {
+      "type": "node",
+      "id": 2214786505,
+      "lat": -0.5402038,
+      "lon": 30.1862986
+    },
+    {
+      "type": "node",
+      "id": 2214786528,
+      "lat": -0.5402382,
+      "lon": 30.1863864
+    },
+    {
+      "type": "node",
+      "id": 2214786552,
+      "lat": -0.5402587,
+      "lon": 30.1886474
+    },
+    {
+      "type": "node",
+      "id": 2214786564,
+      "lat": -0.5402835,
+      "lon": 30.1887809
+    },
+    {
+      "type": "node",
+      "id": 2214786726,
+      "lat": -0.5405264,
+      "lon": 30.1885977
+    },
+    {
+      "type": "node",
+      "id": 2214786736,
+      "lat": -0.5405512,
+      "lon": 30.1887311
+    },
+    {
+      "type": "node",
+      "id": 3830356555,
+      "lat": -0.5403617,
+      "lon": 30.1886283
+    },
+    {
+      "type": "node",
+      "id": 1920055622,
+      "lat": -0.6137067,
+      "lon": 30.6586506
+    },
+    {
+      "type": "node",
+      "id": 1920055641,
+      "lat": -0.6138197,
+      "lon": 30.6585834
+    },
+    {
+      "type": "node",
+      "id": 1920055649,
+      "lat": -0.6138659,
+      "lon": 30.6589184
+    },
+    {
+      "type": "node",
+      "id": 1920055696,
+      "lat": -0.6139789,
+      "lon": 30.6588512
+    },
+    {
+      "type": "node",
+      "id": 3212806471,
+      "lat": 0.0545247,
+      "lon": 32.4610497
+    },
+    {
+      "type": "node",
+      "id": 3212806472,
+      "lat": 0.0546201,
+      "lon": 32.4608331
+    },
+    {
+      "type": "node",
+      "id": 3212806474,
+      "lat": 0.0546816,
+      "lon": 32.4611188
+    },
+    {
+      "type": "node",
+      "id": 3212806494,
+      "lat": 0.054777,
+      "lon": 32.4609021
+    },
+    {
+      "type": "node",
+      "id": 2164034809,
+      "lat": 0.068047,
+      "lon": 32.4667043
+    },
+    {
+      "type": "node",
+      "id": 2164034810,
+      "lat": 0.0678707,
+      "lon": 32.4667881
+    },
+    {
+      "type": "node",
+      "id": 2164034811,
+      "lat": 0.0678345,
+      "lon": 32.4667119
+    },
+    {
+      "type": "node",
+      "id": 2164034812,
+      "lat": 0.0680107,
+      "lon": 32.466628
+    },
+    {
+      "type": "node",
+      "id": 3822470782,
+      "lat": 0.0934319,
+      "lon": 32.5007424
+    },
+    {
+      "type": "node",
+      "id": 3822470783,
+      "lat": 0.0932756,
+      "lon": 32.5008759
+    },
+    {
+      "type": "node",
+      "id": 3822470784,
+      "lat": 0.0933798,
+      "lon": 32.501029
+    },
+    {
+      "type": "node",
+      "id": 3822470785,
+      "lat": 0.0935296,
+      "lon": 32.5009085
+    },
+    {
+      "type": "node",
+      "id": 3191436722,
+      "lat": 0.2019721,
+      "lon": 32.540377
+    },
+    {
+      "type": "node",
+      "id": 3191436723,
+      "lat": 0.2018654,
+      "lon": 32.5403715
+    },
+    {
+      "type": "node",
+      "id": 3191436724,
+      "lat": 0.2018602,
+      "lon": 32.5404739
+    },
+    {
+      "type": "node",
+      "id": 3191436725,
+      "lat": 0.2019669,
+      "lon": 32.5404794
+    },
+    {
+      "type": "node",
+      "id": 3911510103,
+      "lat": 0.2643214,
+      "lon": 32.5458547
+    },
+    {
+      "type": "node",
+      "id": 3911510104,
+      "lat": 0.2641896,
+      "lon": 32.5458303
+    },
+    {
+      "type": "node",
+      "id": 3911510105,
+      "lat": 0.264174,
+      "lon": 32.5459145
+    },
+    {
+      "type": "node",
+      "id": 3911510106,
+      "lat": 0.2643058,
+      "lon": 32.5459389
+    },
+    {
+      "type": "node",
+      "id": 2375428592,
+      "lat": 0.2988783,
+      "lon": 32.5330341
+    },
+    {
+      "type": "node",
+      "id": 2375428599,
+      "lat": 0.2989112,
+      "lon": 32.5327629
+    },
+    {
+      "type": "node",
+      "id": 2375428600,
+      "lat": 0.2989278,
+      "lon": 32.5326755
+    },
+    {
+      "type": "node",
+      "id": 2375428604,
+      "lat": 0.2989292,
+      "lon": 32.5327663
+    },
+    {
+      "type": "node",
+      "id": 2375428633,
+      "lat": 0.2990805,
+      "lon": 32.5327045
+    },
+    {
+      "type": "node",
+      "id": 2375428637,
+      "lat": 0.2990917,
+      "lon": 32.5326454
+    },
+    {
+      "type": "node",
+      "id": 2375428645,
+      "lat": 0.2991353,
+      "lon": 32.5330829
+    },
+    {
+      "type": "node",
+      "id": 2375428662,
+      "lat": 0.2992141,
+      "lon": 32.5326686
+    },
+    {
+      "type": "node",
+      "id": 2375428698,
+      "lat": 0.2994046,
+      "lon": 32.5334103
+    },
+    {
+      "type": "node",
+      "id": 2375428705,
+      "lat": 0.2994379,
+      "lon": 32.5333258
+    },
+    {
+      "type": "node",
+      "id": 2375428719,
+      "lat": 0.2994776,
+      "lon": 32.5333104
+    },
+    {
+      "type": "node",
+      "id": 2375428736,
+      "lat": 0.2995519,
+      "lon": 32.533345
+    },
+    {
+      "type": "node",
+      "id": 2375428737,
+      "lat": 0.2995519,
+      "lon": 32.5334704
+    },
+    {
+      "type": "node",
+      "id": 2662971856,
+      "lat": 0.3168135,
+      "lon": 32.5523997
+    },
+    {
+      "type": "node",
+      "id": 2662971864,
+      "lat": 0.3168716,
+      "lon": 32.5523109
+    },
+    {
+      "type": "node",
+      "id": 2662971868,
+      "lat": 0.3169197,
+      "lon": 32.5524692
+    },
+    {
+      "type": "node",
+      "id": 2662971872,
+      "lat": 0.3169443,
+      "lon": 32.5523585
+    },
+    {
+      "type": "node",
+      "id": 2662971877,
+      "lat": 0.3169612,
+      "lon": 32.5523326
+    },
+    {
+      "type": "node",
+      "id": 2662971883,
+      "lat": 0.3169948,
+      "lon": 32.5523546
+    },
+    {
+      "type": "node",
+      "id": 2663562413,
+      "lat": 0.3190909,
+      "lon": 32.5515672
+    },
+    {
+      "type": "node",
+      "id": 2663562420,
+      "lat": 0.3191205,
+      "lon": 32.5515358
+    },
+    {
+      "type": "node",
+      "id": 2663562428,
+      "lat": 0.3191512,
+      "lon": 32.5516239
+    },
+    {
+      "type": "node",
+      "id": 2663562433,
+      "lat": 0.3191808,
+      "lon": 32.5515924
+    },
+    {
+      "type": "node",
+      "id": 1788466072,
+      "lat": 0.3006988,
+      "lon": 32.5937809
+    },
+    {
+      "type": "node",
+      "id": 1788466073,
+      "lat": 0.3005698,
+      "lon": 32.5936647
+    },
+    {
+      "type": "node",
+      "id": 1788466095,
+      "lat": 0.3007948,
+      "lon": 32.5935516
+    },
+    {
+      "type": "node",
+      "id": 1788466106,
+      "lat": 0.3006712,
+      "lon": 32.5934221
+    },
+    {
+      "type": "node",
+      "id": 1411555727,
+      "lat": 0.3196164,
+      "lon": 32.5952394
+    },
+    {
+      "type": "node",
+      "id": 1411555728,
+      "lat": 0.3194475,
+      "lon": 32.5953493
+    },
+    {
+      "type": "node",
+      "id": 1411555729,
+      "lat": 0.3194976,
+      "lon": 32.5951996
+    },
+    {
+      "type": "node",
+      "id": 1411555731,
+      "lat": 0.3195663,
+      "lon": 32.595389
+    },
+    {
+      "type": "node",
+      "id": 4440465709,
+      "lat": 0.3195154,
+      "lon": 32.595372
+    },
+    {
+      "type": "node",
+      "id": 4440465710,
+      "lat": 0.3195993,
+      "lon": 32.5952907
+    },
+    {
+      "type": "node",
+      "id": 4440465717,
+      "lat": 0.3195766,
+      "lon": 32.5952261
+    },
+    {
+      "type": "node",
+      "id": 1794464639,
+      "lat": 0.2594794,
+      "lon": 32.6269125
+    },
+    {
+      "type": "node",
+      "id": 1794464641,
+      "lat": 0.2593521,
+      "lon": 32.6269776
+    },
+    {
+      "type": "node",
+      "id": 1794464645,
+      "lat": 0.2594758,
+      "lon": 32.6269838
+    },
+    {
+      "type": "node",
+      "id": 1794464646,
+      "lat": 0.2593557,
+      "lon": 32.6269063
+    },
+    {
+      "type": "node",
+      "id": 2613789493,
+      "lat": 0.2775899,
+      "lon": 32.6144908
+    },
+    {
+      "type": "node",
+      "id": 2613789494,
+      "lat": 0.2774272,
+      "lon": 32.6146175
+    },
+    {
+      "type": "node",
+      "id": 2613789495,
+      "lat": 0.2776279,
+      "lon": 32.614875
+    },
+    {
+      "type": "node",
+      "id": 2613789496,
+      "lat": 0.2777445,
+      "lon": 32.6147841
+    },
+    {
+      "type": "node",
+      "id": 2613789497,
+      "lat": 0.277672,
+      "lon": 32.6146911
+    },
+    {
+      "type": "node",
+      "id": 2613789498,
+      "lat": 0.2777181,
+      "lon": 32.6146553
+    },
+    {
+      "type": "node",
+      "id": 2388473590,
+      "lat": 0.2956291,
+      "lon": 32.6231247
+    },
+    {
+      "type": "node",
+      "id": 2388473597,
+      "lat": 0.2956989,
+      "lon": 32.6231705
+    },
+    {
+      "type": "node",
+      "id": 2388473600,
+      "lat": 0.2955917,
+      "lon": 32.6233342
+    },
+    {
+      "type": "node",
+      "id": 2388473601,
+      "lat": 0.2955219,
+      "lon": 32.6232884
+    },
+    {
+      "type": "node",
+      "id": 1700860010,
+      "lat": 0.3454354,
+      "lon": 32.5974681
+    },
+    {
+      "type": "node",
+      "id": 1700860012,
+      "lat": 0.3453431,
+      "lon": 32.5974154
+    },
+    {
+      "type": "node",
+      "id": 1700860011,
+      "lat": 0.3451425,
+      "lon": 32.5977729
+    },
+    {
+      "type": "node",
+      "id": 1700860013,
+      "lat": 0.3451062,
+      "lon": 32.5977524
+    },
+    {
+      "type": "node",
+      "id": 1700860014,
+      "lat": 0.3450718,
+      "lon": 32.5981155
+    },
+    {
+      "type": "node",
+      "id": 1700860018,
+      "lat": 0.3449425,
+      "lon": 32.5980424
+    },
+    {
+      "type": "node",
+      "id": 1700860019,
+      "lat": 0.3451148,
+      "lon": 32.5980393
+    },
+    {
+      "type": "node",
+      "id": 4483871927,
+      "lat": 0.345251,
+      "lon": 32.5977911
+    },
+    {
+      "type": "node",
+      "id": 1386101455,
+      "lat": 0.3804247,
+      "lon": 32.5583545
+    },
+    {
+      "type": "node",
+      "id": 1386101456,
+      "lat": 0.380438,
+      "lon": 32.5583861
+    },
+    {
+      "type": "node",
+      "id": 1386101458,
+      "lat": 0.3805785,
+      "lon": 32.5583269
+    },
+    {
+      "type": "node",
+      "id": 1386101459,
+      "lat": 0.3805651,
+      "lon": 32.5582953
+    },
+    {
+      "type": "node",
+      "id": 2694338718,
+      "lat": 0.3856247,
+      "lon": 32.6527944
+    },
+    {
+      "type": "node",
+      "id": 2694338722,
+      "lat": 0.3857199,
+      "lon": 32.6527046
+    },
+    {
+      "type": "node",
+      "id": 2694338725,
+      "lat": 0.3856919,
+      "lon": 32.6528791
+    },
+    {
+      "type": "node",
+      "id": 2694338729,
+      "lat": 0.3858022,
+      "lon": 32.652781
+    },
+    {
+      "type": "node",
+      "id": 6238841612,
+      "lat": 0.3856557,
+      "lon": 32.6528405
+    },
+    {
+      "type": "node",
+      "id": 6238841636,
+      "lat": 0.3856474,
+      "lon": 32.6528188
+    },
+    {
+      "type": "node",
+      "id": 1428791114,
+      "lat": 0.3508021,
+      "lon": 32.7382901
+    },
+    {
+      "type": "node",
+      "id": 1428791116,
+      "lat": 0.3507922,
+      "lon": 32.7383541,
+      "tags": {
+        "name": "HADJI ABASS SUPERMARKET",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428791120,
+      "lat": 0.3506419,
+      "lon": 32.7382609
+    },
+    {
+      "type": "node",
+      "id": 1428791122,
+      "lat": 0.3507363,
+      "lon": 32.7382649
+    },
+    {
+      "type": "node",
+      "id": 1428791130,
+      "lat": 0.3506362,
+      "lon": 32.7383432
+    },
+    {
+      "type": "node",
+      "id": 1732870940,
+      "lat": 0.3595584,
+      "lon": 32.748957
+    },
+    {
+      "type": "node",
+      "id": 1732870984,
+      "lat": 0.3598669,
+      "lon": 32.7489576
+    },
+    {
+      "type": "node",
+      "id": 1732871001,
+      "lat": 0.3598055,
+      "lon": 32.7490806
+    },
+    {
+      "type": "node",
+      "id": 1732871155,
+      "lat": 0.3596199,
+      "lon": 32.7488341
+    },
+    {
+      "type": "node",
+      "id": 3792299823,
+      "lat": 0.3623505,
+      "lon": 32.7534665
+    },
+    {
+      "type": "node",
+      "id": 3792299824,
+      "lat": 0.3622468,
+      "lon": 32.7536457
+    },
+    {
+      "type": "node",
+      "id": 3792299825,
+      "lat": 0.3623551,
+      "lon": 32.7537048
+    },
+    {
+      "type": "node",
+      "id": 3792299826,
+      "lat": 0.3624516,
+      "lon": 32.7535278
+    },
+    {
+      "type": "node",
+      "id": 3792304848,
+      "lat": 0.362393,
+      "lon": 32.7534958
+    },
+    {
+      "type": "node",
+      "id": 3792308542,
+      "lat": 0.3623539,
+      "lon": 32.7534745
+    },
+    {
+      "type": "node",
+      "id": 6239049857,
+      "lat": 0.3622636,
+      "lon": 32.7536296
+    },
+    {
+      "type": "node",
+      "id": 3071129210,
+      "lat": 0.4335406,
+      "lon": 33.2116511
+    },
+    {
+      "type": "node",
+      "id": 3071129214,
+      "lat": 0.4335696,
+      "lon": 33.2116001
+    },
+    {
+      "type": "node",
+      "id": 3071129240,
+      "lat": 0.4337565,
+      "lon": 33.2117741
+    },
+    {
+      "type": "node",
+      "id": 3071129242,
+      "lat": 0.4337855,
+      "lon": 33.2117231
+    },
+    {
+      "type": "node",
+      "id": 3302449104,
+      "lat": 0.9456058,
+      "lon": 33.1240228
+    },
+    {
+      "type": "node",
+      "id": 3302449106,
+      "lat": 0.9456762,
+      "lon": 33.1240499
+    },
+    {
+      "type": "node",
+      "id": 3302449107,
+      "lat": 0.9456982,
+      "lon": 33.1237821
+    },
+    {
+      "type": "node",
+      "id": 3302449108,
+      "lat": 0.9457117,
+      "lon": 33.123929
+    },
+    {
+      "type": "node",
+      "id": 3302449112,
+      "lat": 0.9457451,
+      "lon": 33.1238674
+    },
+    {
+      "type": "node",
+      "id": 3302449114,
+      "lat": 0.9457591,
+      "lon": 33.1238055
+    },
+    {
+      "type": "node",
+      "id": 3302449116,
+      "lat": 0.9457626,
+      "lon": 33.1240181
+    },
+    {
+      "type": "node",
+      "id": 3302449117,
+      "lat": 0.9458108,
+      "lon": 33.1238926
+    },
+    {
+      "type": "node",
+      "id": 3790273072,
+      "lat": 0.9457202,
+      "lon": 33.1239322
+    },
+    {
+      "type": "node",
+      "id": 3948060344,
+      "lat": 1.0733341,
+      "lon": 34.1767536
+    },
+    {
+      "type": "node",
+      "id": 3948060345,
+      "lat": 1.0734104,
+      "lon": 34.1766441
+    },
+    {
+      "type": "node",
+      "id": 3948060346,
+      "lat": 1.0736503,
+      "lon": 34.1768113
+    },
+    {
+      "type": "node",
+      "id": 3948060347,
+      "lat": 1.073574,
+      "lon": 34.1769208
+    },
+    {
+      "type": "node",
+      "id": 4926388354,
+      "lat": 3.3775952,
+      "lon": 31.7916286
+    },
+    {
+      "type": "node",
+      "id": 4926388355,
+      "lat": 3.3774808,
+      "lon": 31.7917191
+    },
+    {
+      "type": "node",
+      "id": 4926388356,
+      "lat": 3.3774274,
+      "lon": 31.7916514
+    },
+    {
+      "type": "node",
+      "id": 4926388357,
+      "lat": 3.3775419,
+      "lon": 31.7915609
+    }
+  ]
+}
